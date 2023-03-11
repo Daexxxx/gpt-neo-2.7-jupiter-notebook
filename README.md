@@ -1,1 +1,1 @@
-# gpt-neo-2.7-jupiter-notebook
+This is GPT Neo 2.7 jupyter notebook writen in python. I give all the credits for the GPT model to EleutherAI on Hugging face. This project has a text to speech on the last runnable code, and its optional to use.
